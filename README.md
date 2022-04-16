@@ -1,2 +1,2 @@
 # PROG-LOCKER-PROTECTION
-A very Secure Extra Password protection for your pc
+A very Secure Extra Password protection for your pc (Windows Only)
